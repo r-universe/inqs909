@@ -1,0 +1,26 @@
+[
+  {
+    "package": "ggcheck",
+    "url": "https://github.com/rstudio/ggcheck",
+    "via": ["csustats", "gradethis"],
+    "from": "csustats"
+  },
+  {
+    "package": "gradethis",
+    "url": "https://github.com/rstudio/gradethis",
+    "via": ["csustats"],
+    "from": "csustats"
+  },
+  {
+    "package": "learnr",
+    "url": "https://github.com/rstudio/learnr",
+    "via": ["csustats", "gradethis"],
+    "from": "csustats"
+  },
+  {
+    "package": "learnrhash",
+    "url": "https://github.com/rundel/learnrhash",
+    "via": ["csustats"],
+    "from": "csustats"
+  }
+]

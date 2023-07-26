@@ -5,6 +5,22 @@
 [submodule "csustats"]
 	path = csustats
 	url = https://github.com/inqs909/csustats
+[submodule "ggcheck"]
+	path = ggcheck
+	url = https://github.com/rstudio/ggcheck
+	registered = false
+[submodule "gradethis"]
+	path = gradethis
+	url = https://github.com/rstudio/gradethis
+	registered = false
 [submodule "inqstools"]
 	path = inqstools
 	url = https://github.com/inqs909/inqstools
+[submodule "learnr"]
+	path = learnr
+	url = https://github.com/rstudio/learnr
+	registered = false
+[submodule "learnrhash"]
+	path = learnrhash
+	url = https://github.com/rundel/learnrhash
+	registered = false
