@@ -12,7 +12,6 @@
 [submodule "gradethis"]
 	path = gradethis
 	url = https://github.com/rstudio/gradethis
-	registered = false
 [submodule "inqstools"]
 	path = inqstools
 	url = https://github.com/inqs909/inqstools
@@ -23,4 +22,3 @@
 [submodule "learnrhash"]
 	path = learnrhash
 	url = https://github.com/rundel/learnrhash
-	registered = false
