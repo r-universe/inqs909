@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/inqs909/inqs909.r-universe.dev
 	branch = HEAD
+[submodule "csustats"]
+	path = csustats
+	url = https://github.com/inqs909/csustats
+[submodule "inqstools"]
+	path = inqstools
+	url = https://github.com/inqs909/inqstools
