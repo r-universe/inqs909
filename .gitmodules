@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/inqs909/inqs909.r-universe.dev
 	branch = HEAD
+[submodule "csucistats"]
+	path = csucistats
+	url = https://github.com/inqs909/csucistats
 [submodule "csustats"]
 	path = csustats
 	url = https://github.com/inqs909/csustats
