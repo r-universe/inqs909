@@ -25,3 +25,6 @@
 [submodule "learnrhash"]
 	path = learnrhash
 	url = https://github.com/rundel/learnrhash
+[submodule "rcistats"]
+	path = rcistats
+	url = https://github.com/inqs909/rcistats
